@@ -1,2 +1,3 @@
 # AI-Lecture-Summarizer
-A full stack application that uses AI to summarize lecture notes and extract key concepts.
+AI-powered web application that summarizes lecture notes and extracts key concepts using NLP.
+
